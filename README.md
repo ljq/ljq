@@ -9,11 +9,7 @@
 <details>
 <summary>WeChat QRcode</summary>
 
-	<pre>
-		<code>
-			<img src="https://github.com/ljq/ljq/blob/main/wechat.png" alt="labsec" width="138" height="138" align="center" />
-		</code>
-	</pre>
+![labsec](https://github.com/ljq/ljq/blob/main/wechat.png)
 
 </details>
 
