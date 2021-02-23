@@ -9,7 +9,7 @@
 <details>
 <summary>WeChat QRcode</summary>
 
-![labsec](https://github.com/ljq/ljq/blob/main/wechat.png)
+![labsec](https://github.com/ljq/ljq/blob/main/wechat-ljq.png)
 
 </details>
 
