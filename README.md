@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ljq&show_icons=true&theme=gruvbox&layout=compact" />
+
 ### Hi! I'm Jack Liu (Jianqiu Liu). 👋
 
 - 🌱 Blog URL: **[wdft.com](https://wdft.com)**
@@ -26,3 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
