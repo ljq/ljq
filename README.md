@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ljq&show_icons=true&theme=gruvbox&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ljq&show_icons=true&theme=vue-dark&layout=compact" />
 
 ### Hi! I'm Jack Liu (Jianqiu Liu). 👋
 
