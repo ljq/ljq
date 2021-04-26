@@ -13,6 +13,7 @@
 
 ![labsec](https://raw.githubusercontent.com/ljq/ljq/main/wechat-ljq.png)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ljq)
 </details>
 
 <!--
