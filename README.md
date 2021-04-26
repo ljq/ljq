@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ljq&show_icons=true&theme=blueberry&layout=compact&custom_title=ljq@GitHub%20Jack%20Liu's%20GitHub%20Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ljq&show_icons=true&theme=onedark&layout=compact&custom_title=ljq@GitHub%20Jack%20Liu's%20GitHub%20Stats" />
 
 ### Hi! I'm Jack Liu (Jianqiu Liu). 👋
 
