@@ -1,6 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ljq&cache_seconds=1800&show_icons=true&theme=onedark&layout=compact&border_radius=25&hide_border=False&custom_title=ljq@GitHub%20Jack%20Liu's%20GitHub%20Stats" />
 
-### Hi! I'm Jack Liu (Jianqiu Liu). 👋
+##### Hi! I'm Jack Liu (Jianqiu Liu). 👋
+
 
 [![WeChat ](https://img.shields.io/badge/WeChat-labsec-brightgreen.svg?style=plastic&logo=wechat)](https://github.com/ljq)  
 
