@@ -13,7 +13,7 @@
 
 
 
-### 🏆 GitHub Profile Trophy:
+### 🏆 Jack%20Liu's GitHub profile trophy:
 
 ---
 <a href="https://github.com/ryo-ma/github-profile-trophy">
