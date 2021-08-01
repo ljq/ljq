@@ -12,11 +12,14 @@
 [![Email-2](https://img.shields.io/badge/Email%202-jackliu8909@gmail.com-brightgreen.svg?style=plastic&logo=gmail)](mailto:jackliu8909@gmail.com)  
 
 
+
 ### 🏆 GitHub Profile Trophy:
+
 ---
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ljq&column=8&theme=radical&no-frame=true&no-bg=true"/>
 </a>
+
 
 
 <details>
