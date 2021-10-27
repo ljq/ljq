@@ -5,7 +5,7 @@
 
 [![WeChat ](https://img.shields.io/badge/WeChat-labsec-brightgreen.svg?style=plastic&logo=wechat)](https://github.com/ljq)  
 
-[![My Blog](https://img.shields.io/badge/My%20blog-wdft.com-brightgreen.svg?style=plastic&logo=blogger)](https://wdft.com)  
+[![My Blog](https://img.shields.io/badge/My%20blog-defense.ink-brightgreen.svg?style=plastic&logo=blogger)](defense.ink)  
 
 [![Email-1](https://img.shields.io/badge/Email%201-stackgo@163.com-brightgreen.svg?style=plastic&logo=mail.ru)](mailto:stackgo@163.com)  
 
