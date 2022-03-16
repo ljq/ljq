@@ -25,7 +25,7 @@
 <details>
 <summary>WeChat QRcode</summary>
 
-<img alt="labsec" src="ljq-qrcode.jpeg" width="200" height="256" />
+<img alt="labsec" src="ljq-qrcode.jpeg" width="125" height="125" />
 
 ✨![visitors](https://visitor-badge.glitch.me/badge?page_id=ljq)✨
 </details>
