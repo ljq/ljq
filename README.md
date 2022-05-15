@@ -7,6 +7,8 @@
 
 [![Blogger](https://img.shields.io/badge/Blogger-defense.ink-brightgreen.svg?style=plastic&logo=blogger)](https://defense.ink)  
 
+[![DevPost](https://img.shields.io/badge/DevPost-ljq-brightgreen.svg?style=plastic&logo=devpost)](https://devpost.com/ljq) 
+
 [![Email-1](https://img.shields.io/badge/Email%201-stackgo@163.com-brightgreen.svg?style=plastic&logo=gmail)](mailto:stackgo@163.com)  
 
 [![Email-2](https://img.shields.io/badge/Email%202-jackliu8909@gmail.com-brightgreen.svg?style=plastic&logo=gmail)](mailto:jackliu8909@gmail.com)  
