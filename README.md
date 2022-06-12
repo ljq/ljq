@@ -12,10 +12,6 @@
 
 [![Email-2](https://img.shields.io/badge/Email%202-ljqlab@gmail.com-brightgreen.svg?style=plastic&logo=gmail)](mailto:ljqlab@gmail.com)  
 
-**Keep Learning**
-
-**In me the tiger🐯 sniffs the rose🌹.**
-
 ### 🏆 Jack Liu's GitHub profile trophy:
 
 ---
