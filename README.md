@@ -6,11 +6,14 @@
 
 [![WeChat ](https://img.shields.io/badge/WeChat-labsec-brightgreen.svg?style=plastic&logo=wechat)](https://github.com/ljq)  
 
+[![Savannah](https://img.shields.io/badge/GNU%20Savannah-ljq-brightgreen.svg?style=plastic&logo=a)](https://savannah.gnu.org/users/ljq)   
+
 [![Blogger](https://img.shields.io/badge/Blogger-defense.ink-brightgreen.svg?style=plastic&logo=blogger)](https://www.defense.ink)  
 
 [![Email-1](https://img.shields.io/badge/Email%201-ljqlab@163.com-brightgreen.svg?style=plastic&logo=gmail)](mailto:ljqlab@163.com)  
 
 [![Email-2](https://img.shields.io/badge/Email%202-ljqlab@gmail.com-brightgreen.svg?style=plastic&logo=gmail)](mailto:ljqlab@gmail.com)  
+
 
 ### 🏆 Jack Liu's GitHub profile trophy:
 
