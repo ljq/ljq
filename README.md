@@ -27,17 +27,20 @@
 
 <details>
 <summary><h3>🏆 GitHub profile trophy</h3></summary>
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ljq&column=8&theme=radical&no-frame=true&no-bg=true"/>
 </a>
 </details>
 <details>
 <summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
 [![ljq@github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ljq&theme=github)](https://github.com/ljq)
 </details>
 <details>
 <summary><h3> WeChat QRcode</h3></summary>
 <img alt="labsec" src="./ljq-qrcode.jpeg" width="125" height="125" />
+
 ✨![visitors](https://visitor-badge.glitch.me/badge?page_id=ljq)✨
 </details>
 
