@@ -1,7 +1,9 @@
+<p align="right">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=12&color=%23C8BE25&center=false&width=435&lines=Jack+Liu%2C+software+engineer.;Love+open+source,+keep+learning.)](https://www.defense.ink)
+</p>
+
 <p align="center">
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=12&color=%23C8BE25&center=false&width=435&lines=Jack+Liu%2C+software+engineer.;Love+open+source,+keep+learning.)](https://www.defense.ink)
-
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ljq&cache_seconds=1800&show_icons=true&theme=onedark&layout=compact&border_radius=25&hide_border=True&custom_title=ljq@GitHub%20Jack%20Liu's%20GitHub%20Stats" />
 </p>
 
