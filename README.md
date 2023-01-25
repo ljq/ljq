@@ -24,6 +24,7 @@
   <img width="420" src="https://github-profile-trophy.vercel.app/?username=ljq&row=1&column=8&theme=radical&no-frame=true&no-bg=true"/>
 </a>
 </details>
+
 <details>
 <summary><h6> WeChat QRcode</h6></summary>
 <img alt="labsec" src="./ljq-qrcode.jpeg" width="125" height="125" />
