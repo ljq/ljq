@@ -1,6 +1,9 @@
+<h1 align="center">Hi! I'm Jack Liu (Jianqiu Liu). 👋</h1>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ljq&cache_seconds=1800&show_icons=true&theme=onedark&layout=compact&border_radius=25&hide_border=False&custom_title=ljq@GitHub%20Jack%20Liu's%20GitHub%20Stats" />
 
-##### Hi! I'm Jack Liu (Jianqiu Liu). 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%23C8BE25&center=true&vCenter=true&width=435&lines=Jack+Liu%2C+Software+engineer.;Love+open+source.+keep+learning.)](https://git.io/typing-svg)
 
 [![DevPost](https://img.shields.io/badge/DevPost-ljq-brightgreen.svg?style=plastic&logo=devpost)](https://devpost.com/ljq) 
 
