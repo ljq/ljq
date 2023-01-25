@@ -19,9 +19,7 @@
 
 [![Blogger](https://img.shields.io/badge/Blogger-defense.ink-brightgreen.svg?style=plastic&logo=blogger)](https://www.defense.ink)  
 
-[![Email-1](https://img.shields.io/badge/Email%201-ljqlab@163.com-brightgreen.svg?style=plastic&logo=gmail)](mailto:ljqlab@163.com)  
-
-[![Email-2](https://img.shields.io/badge/Email%202-ljqlab@gmail.com-brightgreen.svg?style=plastic&logo=gmail)](mailto:ljqlab@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-ljqlab@gmail.com-brightgreen.svg?style=plastic&logo=gmail)](mailto:ljqlab@gmail.com)  
 
 <details open>
 <summary><h3>🏆 GitHub profile trophy</h3></summary>
