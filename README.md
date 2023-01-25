@@ -16,6 +16,7 @@
 <details open>
 <summary><h5>🏆 GitHub profile trophy</h5></summary>
 
+<p>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width="420" src="https://github-profile-trophy.vercel.app/?username=ljq&row=1&column=8&theme=radical&no-frame=true&no-bg=true"/>
 </a>
@@ -24,6 +25,7 @@
 <p align="right">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=12&color=%23C8BE25&center=false&width=435&lines=Jack+Liu%2C+software+engineer.;Love+open+source,+keep+learning.)](https://www.defense.ink)
+</p>
 </p>
 
 <details>
