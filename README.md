@@ -2,7 +2,7 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=12&color=%23C8BE25&center=false&vCenter=true&width=435&lines=Jack+Liu%2C+Software+engineer.;Love+open+source,+keep+learning.)](https://www.defense.ink)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=12&color=%23C8BE25&center=false&vCenter=true&width=435&lines=Jack+Liu%2C+software+engineer.;Love+open+source,+keep+learning.)](https://www.defense.ink)
 
 </p>
 
