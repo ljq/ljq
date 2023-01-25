@@ -22,14 +22,6 @@
 [![Email-1](https://img.shields.io/badge/Email%201-ljqlab@163.com-brightgreen.svg?style=plastic&logo=gmail)](mailto:ljqlab@163.com)  
 
 [![Email-2](https://img.shields.io/badge/Email%202-ljqlab@gmail.com-brightgreen.svg?style=plastic&logo=gmail)](mailto:ljqlab@gmail.com)  
-
-
-<details>
-<summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-[![ljq@github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ljq&theme=github)](https://github.com/ljq)
-
-</details>
  
 
 ### 🏆 GitHub profile trophy:
@@ -40,6 +32,12 @@
 </a>
 
 
+<details>
+<summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+[![ljq@github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ljq&theme=github)](https://github.com/ljq)
+
+</details>
 
 <details>
 <summary>WeChat QRcode</summary>
