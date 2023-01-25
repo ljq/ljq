@@ -26,13 +26,14 @@
 [![Email-2](https://img.shields.io/badge/Email%202-ljqlab@gmail.com-brightgreen.svg?style=plastic&logo=gmail)](mailto:ljqlab@gmail.com)  
  
 
-### 🏆 GitHub profile trophy:
+<details>
+<summary><h3>🏆 GitHub profile trophy</h3></summary>
 
----
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ljq&column=8&theme=radical&no-frame=true&no-bg=true"/>
 </a>
 
+</details>
 
 <details>
 <summary><h3>⚡ Recent GitHub Activity</h3></summary>
