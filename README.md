@@ -23,7 +23,7 @@
 
 [![Email-2](https://img.shields.io/badge/Email%202-ljqlab@gmail.com-brightgreen.svg?style=plastic&logo=gmail)](mailto:ljqlab@gmail.com)  
 
-<details>
+<details open>
 <summary><h3>🏆 GitHub profile trophy</h3></summary>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
