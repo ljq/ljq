@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Jack Liu (Jianqiu Liu) 👋</h1>
+<h1 align="center">Jack Liu (Jianqiu Liu) 👋</h1>
 
 <p align="center">
 
