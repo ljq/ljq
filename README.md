@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ljq&cache_seconds=1800&show_icons=true&theme=onedark&layout=compact&border_radius=25&hide_border=False&custom_title=ljq@GitHub%20Jack%20Liu's%20GitHub%20Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ljq&cache_seconds=1800&show_icons=true&theme=onedark&layout=compact&border_radius=25&hide_border=True&custom_title=ljq@GitHub%20Jack%20Liu's%20GitHub%20Stats" />
 </p>
 
 
