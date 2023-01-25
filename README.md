@@ -1,6 +1,6 @@
-<p align="right">
+<p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=14&color=%23C8BE25&center=false&width=435&lines=Jack+Liu%2C+software+engineer.;Love+open+source,+keep+learning.)](https://www.defense.ink)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=14&color=%23C8BE25&center=true&width=800&lines=Jack+Liu%2C+software+engineer.;Love+open+source,+keep+learning.)](https://www.defense.ink)
 </p>
 
 <p align="center">
