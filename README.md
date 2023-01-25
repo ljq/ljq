@@ -28,10 +28,14 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ljq&column=8&theme=radical&no-frame=true&no-bg=true"/>
+  WeChat QRcode
+  <img alt="labsec" src="./ljq-qrcode.jpeg" width="125" height="125" />
+
+  ✨![visitors](https://visitor-badge.glitch.me/badge?page_id=ljq)✨
 </a>
 </details>
 <details>
-<summary><h3>💬 WeChat QRcode</h3></summary>
+<summary><h6>💬 WeChat QRcode</h6></summary>
 <img alt="labsec" src="./ljq-qrcode.jpeg" width="125" height="125" />
 
 ✨![visitors](https://visitor-badge.glitch.me/badge?page_id=ljq)✨
