@@ -2,8 +2,6 @@
 
 ##### Hi! I'm Jack Liu (Jianqiu Liu). 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%23C8BE25&center=true&vCenter=true&width=435&lines=Jack+Liu%2C+Software+engineer.;Love+open+source.+keep+learning.)](https://git.io/typing-svg)
-
 [![DevPost](https://img.shields.io/badge/DevPost-ljq-brightgreen.svg?style=plastic&logo=devpost)](https://devpost.com/ljq) 
 
 [![WeChat ](https://img.shields.io/badge/WeChat-labsec-brightgreen.svg?style=plastic&logo=wechat)](https://github.com/ljq)  
