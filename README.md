@@ -31,11 +31,6 @@
 </a>
 </details>
 <details>
-<summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-[![ljq@github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ljq&theme=github)](https://github.com/ljq)
-</details>
-<details>
 <summary><h3>💬 WeChat QRcode</h3></summary>
 <img alt="labsec" src="./ljq-qrcode.jpeg" width="125" height="125" />
 
