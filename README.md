@@ -11,7 +11,7 @@
 
 [![WeChat ](https://img.shields.io/badge/WeChat-labsec-brightgreen.svg?style=plastic&logo=wechat)](https://github.com/ljq)  
 
-[![Savannah](https://img.shields.io/badge/GNU%20Savannah-ljq-brightgreen.svg?style=plastic&logo=gnu)](https://savannah.gnu.org/users/ljq)   
+<!--[![Savannah](https://img.shields.io/badge/GNU%20Savannah-ljq-brightgreen.svg?style=plastic&logo=gnu)](https://savannah.gnu.org/users/ljq)   -->
 
 [![Blogger](https://img.shields.io/badge/Blogger-defense.ink-brightgreen.svg?style=plastic&logo=blogger)](https://www.defense.ink)  
 
