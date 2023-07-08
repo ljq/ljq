@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ljq&cache_seconds=1800&show_icons=true&theme=transparent&layout=compact&border_radius=25&hide_border=False&border_color=d0d7de&title_color=136D8A&icon_color=4D89D6&text_color=9AD0CE&custom_title=ljq@GitHub%20Jack%20Liu's%20GitHub%20Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ljq&cache_seconds=1800&show_icons=true&theme=transparent&layout=compact&border_radius=25&hide_border=False&border_color=d0d7de&title_color=136D8A&icon_color=57BCDA&text_color=6F93B5&custom_title=ljq@GitHub%20Jack%20Liu's%20GitHub%20Stats" />
 </p>
 
 [![DevPost](https://img.shields.io/badge/DevPost-ljq-brightgreen.svg?style=plastic&logo=devpost)](https://devpost.com/ljq) 
