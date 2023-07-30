@@ -1,10 +1,7 @@
-<svg viewBox="0 0 115 15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 115 18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <style>
 
 svg {
-  width:110vw;
-  position:fixed;
-  top:-5px;
   transform: rotate(360deg);
   overflow:visible;
 }
