@@ -1,5 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="100%" height="90" viewBox="0 0 854 200">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" viewBox="0 0 854 200">
     <style>
+        .svg {
+            width:110vw;
+        }
                 .text {
             font-size: 28px;
             font-weight: 300;
@@ -7,7 +10,7 @@
         }
         .desc {
             font-size: 18px;
-            font-weight: 100;
+            font-weight: 90;
             font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
         }
 
