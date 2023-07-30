@@ -1,6 +1,6 @@
 <!-- bottom up bar -->
 <p>
-  <img src="./assets/Bottom_up.svg" style="border-radius:6px 6px 0 0;width:100%;"  />
+  <img src="./assets/Bottom_up.svg?v=20230730" style="border-radius:6px 6px 0 0;width:100%;"  />
 </p>
 
 <!-- intro -->
@@ -41,5 +41,5 @@
 
 <!-- bottom down bar -->
 <p>
-  <img src="./assets/Bottom_down.svg" style="border-radius:0 0 6px 6px;width:100%;"  />
+  <img src="./assets/Bottom_down.svg?v=20230730" style="border-radius:0 0 6px 6px;width:100%;"  />
 </p>
