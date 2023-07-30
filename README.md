@@ -1,3 +1,5 @@
+![](./assets/Bottom_up.svg)
+
 <p align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=14&color=%23C8BE25&center=false&width=435&lines=Jack+Liu%2C+software+engineer.;Love+open+source,+keep+learning.)](https://www.defense.ink)
@@ -27,8 +29,10 @@
 
 <details>
 <summary><h6> WeChat QRcode</h6></summary>
-<img alt="labsec" src="./ljq-qrcode.jpeg" width="125" height="125" />
+<img alt="labsec" src="./assets/ljq-qrcode.jpeg" width="125" height="125" />
 
 ✨![visitors](https://visitor-badge.glitch.me/badge?page_id=ljq)✨
 </details>
 
+
+![](./assets/Bottom_down.svg)
