@@ -1,15 +1,17 @@
 <!-- bottom up bar -->
-<p style="border-radius: 15px 15px 0 0;border:1px solid red;">
-  <img src="./assets/Header_bar.svg?v=20230730" style="width:100%;"  />
-</p>
+
+<div>
+<img src="./assets/Header_bar.svg?v=20230730" style="width:100%;"  />
+
+</div>
 
 <!-- intro -->
-<p align="center">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=14&color=%23C8BE25&center=false&width=435&lines=Jack+Liu%2C+software+engineer.;Love+open+source,+keep+learning.)](https://www.wdft.com)
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ljq&cache_seconds=1800&show_icons=true&theme=transparent&layout=compact&border_radius=16&hide_border=False&border_color=E0D7DE&title_color=136D8A&icon_color=57BCDA&text_color=3EA37A&custom_title=ljq@GitHub%20Jack%20Liu's%20GitHub%20Stats" />
-</p>
+</div>
 
 <!-- Contact links -->
 
@@ -40,6 +42,6 @@
 </details>
 
 <!-- bottom down bar -->
-<p style="border-radius: 10px 10px 0 0;">
+<p>
   <img src="./assets/Bottom_bar.svg?v=20230730" style="width:100%;"  />
 </p>
