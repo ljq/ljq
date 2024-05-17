@@ -1,5 +1,5 @@
 <!-- bottom up bar -->
-<p style="border-radius: 10px 10px 0 0;">
+<p style="border-radius: 15px 15px 0 0;border:1px solid red;">
   <img src="./assets/Header_bar.svg?v=20230730" style="width:100%;"  />
 </p>
 
