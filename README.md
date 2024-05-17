@@ -1,4 +1,4 @@
-<!-- bottom up bar -->
+<!-- header bar -->
 
 <div>
 <img src="./assets/Header_bar.svg?v=20230730" style="width:100%;"  />
@@ -41,7 +41,7 @@
 
 </details>
 
-<!-- bottom down bar -->
+<!-- bottom bar -->
 <p>
   <img src="./assets/Bottom_bar.svg?v=20230730" style="width:100%;"  />
 </p>
