@@ -33,7 +33,6 @@
 </a>
 </details>
 
-<script src="https://embed.github.com/view/3d/ljq/ljq/main/stl/ljq-2024-github-skyline.stl"></script>
 
 <details>
 <summary><h6> WeChat QRcode</h6></summary>
