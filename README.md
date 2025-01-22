@@ -41,6 +41,9 @@
 
 </details>
 
+
+<script src="https://embed.github.com/view/3d/ljq/ljq/main/stl/ljq-2024-github-skyline.stl"></script>
+
 <!-- bottom bar -->
 <p>
   <img src="./assets/Bottom_bar.svg?v=20230730" style="width:100%;"  />
